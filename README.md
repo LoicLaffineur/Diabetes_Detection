@@ -1,4 +1,28 @@
-# Diabete Detection in Python
+# Diabete Detection in Python 
 
-An academical project realized with a classmate on Diabete classification using different librairies from Python. 
-The notebook contain a part on classification, imbalanced data and clustering as well as visualisation of the datas.
+## 🎯 Objectif
+
+Projet académique utilisant Python. Le but est de prédire si une personne a ou non le diabete en fonction des diverses informations connues sur cette personne. 
+
+## 🗂️ Données
+
+?
+
+## 🔍 Méthodologie
+- EDA
+- Classification
+- Imbalanced data
+- Clustering
+- ???
+
+## 📊 Résultats
+- Meilleur modèle : ?
+- Accuracy = ?
+- Recall = ?
+- F1 = ?
+- ROC-AUC = ?
+- Variables importantes : ?
+- STEAMLIT ? 
+
+## 🧠 Pistes d’amélioration
+- ?
