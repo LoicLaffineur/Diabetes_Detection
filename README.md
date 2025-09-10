@@ -28,15 +28,15 @@ Python, Pandas, Scikit-learn, Matplotlib, techniques de rééquilibrage de donn�
   
 <img width="800" height="772" alt="Corr" src="https://github.com/user-attachments/assets/7df5873e-dec1-4050-b7bb-a5d16b6e31a6" />
 
-📊 Résultats
+## 📊 Résultats
 
 <img width="613" height="225" alt="Final_results" src="https://github.com/user-attachments/assets/9d00f43b-5c9a-4dea-83aa-c440f6a540a1" />
 
-Meilleur modèle : XGBoost
-Accuracy = 0.88
-Recall = 0.88
-F1 = 0.88
-Variables importantes : Insulin, Glucose, Age
+**Meilleur modèle** : XGBoost
+- Accuracy = 0.88
+- Recall = 0.88
+- F1 = 0.88
+- Variables importantes : Insulin, Glucose, Age
 
 <img width="498" height="432" alt="Xgboost_cm" src="https://github.com/user-attachments/assets/7fe457e4-f739-41e2-975b-7f2a3c4abf82" />
 
